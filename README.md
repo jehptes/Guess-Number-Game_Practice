@@ -1,5 +1,3 @@
-# Projects
+The Guess Number Game 
 
-This repository contains all large and small scale projects i  did. 
-
-The projects will range from core python projects to specialized projects in areas of data engineering and big data.  
+This was done to developed to practice python skills. In line with this , develop a game making use of python fundamentals
